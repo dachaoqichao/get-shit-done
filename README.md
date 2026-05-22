@@ -4,7 +4,7 @@
 >
 > An active fork lives at **[GSD-redux/get-shit-done-redux](https://github.com/GSD-redux/get-shit-done-redux)**.
 >
-> Full notice and what is known: **[README on the fork](https://github.com/GSD-redux/get-shit-done-redux/blob/rebrand/gsd-redux-rename/README.md)**.
+> Full notice and what is known: **[README on the fork](https://github.com/GSD-redux/get-shit-done-redux#readme)**.
 >
 > Until the original maintainer resurfaces with verifiable proof of control over this repository and the associated npm packages and tokens, **use the fork for new work**. Existing installations should plan a cut-over:
 >
